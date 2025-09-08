@@ -6,6 +6,7 @@
 	margin: 24px 10px;
 	padding: 100px 40px;
 	text-align: center;
+	animation: fadeIn 1s ease-in;
 }
 
 .impact-story h2 {
@@ -20,6 +21,7 @@
 	flex-direction: column;
 	align-items: center;
 	gap: 20px;
+	animation: fadeInUp 1.2s ease-in;
 }
 
 .impact-image {
@@ -27,6 +29,7 @@
 	border-radius: 10px;
 	margin-bottom: 8px;
 	box-shadow: 0 2px 8px rgba(46, 157, 247, 0.10);
+	animation: fadeIn 1.2s ease-in;
 }
 
 .impact-text p {
@@ -61,6 +64,7 @@
 	margin: 24px 10px;
 	padding: 60px 16px;
 	text-align: center;
+	animation: fadeIn 1s ease-in;
 }
 
 .donation-section h2 {
@@ -190,6 +194,7 @@ header {
 	width: 100%;
 	border-radius: 8px;
 	transition: transform 0.3s ease;
+	animation: fadeIn 1.2s ease-in;
 }
 
 .hero-image img:hover {
